@@ -5,11 +5,10 @@ date:   2017-10-28
 excerpt: "Blog del club de robótica Granada"
 project: true
 tag:
-- jekyll 
-- moon
+- Home
+- Post
 - blog
-- about
-- theme
+- Sobre nosotros
 comments: true
 ---
 
